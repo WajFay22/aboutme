@@ -1,7 +1,7 @@
 {
-    "title": "Упс! Данная страница не существует.",
-    "description": "Вы попали на страницу которая не существует",
-    "button": "Вернуться на главную страницу",
-    "made": "Сделано с",
-    "and": "и"
+    "title": "Ups! Ova stranica ne postoji.",
+    "description": "Došli ste na stranicu koja ne postoji",
+    "button": "Vratite se na glavnu stranicu",
+    "made": "Napravljeno sa",
+    "and": "i"
 }
